@@ -1,0 +1,45 @@
+@media screen and (max-width: 1420px)  {
+    body {
+        margin: 0 auto;
+        max-width: 768px;
+    }
+    .bg-photo {
+        width: 768px;
+        .head {
+            width: 98%;
+            padding-left: 42px;
+        }
+    }
+    .hero {
+            margin: 0 auto;
+            max-width: 768px;
+        .step {
+            width: 100%;
+        }
+    }
+    .flex {
+        display: block;
+    }
+    .block-first {
+        width: 768px;
+    }   
+    .block-second {
+        width: 768px;
+    } 
+    .block-threeth {
+        width: 768px;
+    }  
+    .box {
+        width: 768px;
+        padding: 0 40px;
+    }
+    .people {
+        width: 768px;
+    }
+    hr {
+        min-width: 768px;
+    }
+    .foot-company-bttn {
+        width: 150px;
+    }
+}
